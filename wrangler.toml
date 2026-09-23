@@ -1,0 +1,11 @@
+name = "spino-gambinoavis-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spino-gambinoavis.fr"
+HMAC_KEY = "8f08b756f5f4afc5c14b665df3e64a2828f7996f992ed78240d552e9e91809ce"
+COOKIE_NAME = "st7"
+PLAY_PATH = "try"
+BUTTON_ID = "p3c284ac9ea77266f991654dfaeb67765"
+GATE_SALT = "f6f2eb043a531797"
